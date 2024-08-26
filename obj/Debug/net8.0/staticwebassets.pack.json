@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\nhuyn\\source\\repos\\PersonalProjects\\TodoProjectSample\\TodoProjectSample\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\nhuyn\\source\\repos\\PersonalProjects\\TodoProjectSample\\TodoProjectSample\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\nhuyn\\source\\repos\\PersonalProjects\\TodoProjectSample\\TodoProjectSample\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TodoProjectSample.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TodoProjectSample.props",
+      "PackagePath": "build\\TodoProjectSample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TodoProjectSample.props",
+      "PackagePath": "buildMultiTargeting\\TodoProjectSample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TodoProjectSample.props",
+      "PackagePath": "buildTransitive\\TodoProjectSample.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
