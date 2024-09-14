@@ -5,3 +5,6 @@ Repository and service layers are omitted for simplicity. Pagination is implemen
 ## Technologies
 Backend: .NET Web API, in memory database.
 Front end: Javascript, HTML, CSS. 
+
+## Note
+This focus of this project was on entity framework so the front end was very plain.
